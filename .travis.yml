@@ -1,5 +1,6 @@
-./make
-
+# Enable C support
 language: c
 
+# Build steps
+script: make
 
