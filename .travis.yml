@@ -6,7 +6,10 @@ compiler:
   - clang
 
 # Build steps
-script: make
+script:
+  - make
+  - ls -la
+  - ./main
 
 # Execute program
 after_success:
