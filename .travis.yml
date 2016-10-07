@@ -1,6 +1,10 @@
 # Enable C support
 language: c
 
+compiler:
+  - gcc
+  - clang
+
 # Build steps
 script: make
 
