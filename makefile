@@ -1,7 +1,7 @@
 all: main
 
 main: main.o
-  gcc main.o -o main
+  $(CC) -o main main.o
 
 main.o
-  gcc -c main.c 
+  $(CC) -c main.c 
