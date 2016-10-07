@@ -8,3 +8,5 @@ compiler:
 # Build steps
 script: make
 
+# Execute program
+after_success: ./main
