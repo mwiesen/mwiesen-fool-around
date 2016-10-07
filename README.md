@@ -1,1 +1,1 @@
-# mwiesen-fool-around
+## build and run simple c programs
