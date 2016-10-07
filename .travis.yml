@@ -2,5 +2,5 @@
 language: c
 
 # Build steps
-script: scons
+script: make
 
