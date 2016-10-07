@@ -10,6 +10,8 @@ int main()
       printf("Hello, World!\n");
     }
 
+    scanf("%i", &a);
+    
     return 0;
 }
 
