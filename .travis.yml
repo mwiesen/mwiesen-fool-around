@@ -9,4 +9,6 @@ compiler:
 script: make
 
 # Execute program
-after_success: ./main
+after_success:
+  - ls -la
+  - ./main
