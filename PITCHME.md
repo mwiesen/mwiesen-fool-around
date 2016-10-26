@@ -6,7 +6,8 @@ GitPitch uses [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 #HSLIDE
 
-GitPitch supports vertical slide scrolling as well. Just use the up and down buttons to scroll to new vertical slides (subslides) so to say. The are containing some Markdown exmples.
+GitPitch supports vertical slide scrolling as well. Think of it as sub-slides.  Just use the up and down buttons to scroll through them.
+The are containing some Markdown exmples.
 
 #VSLIDE
 
@@ -25,7 +26,7 @@ Headers:
 
 #VSLIDE
 
-# Lists:
+## Lists:
 
 - lorem
 * ipsum
@@ -36,7 +37,7 @@ Headers:
     
 #VSLIDE
 
-# Ordered lists:
+## Ordered lists:
 
 1. item one
 2. item two
@@ -47,15 +48,15 @@ Headers:
     
 #VSLIDE
 
-# Images and links:
+## Images and links:
 
-![Image of Yaktocat](https://octodex.github.com/images/inflatocat.png)
+![universe-2016](https://assets-cdn.github.com/images/modules/site/universe-logo.png)
 
-This image can be found [here](https://octodex.github.com/inflatocat)
+This image can be found [here](https://github.com/universe-2016)
 
 #VSLIDE
 
-# Blockquotes and inline code:
+## Blockquotes and inline code:
 
 > This is what the other guy said the other day! Really funny!
 
