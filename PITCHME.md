@@ -121,11 +121,15 @@ def foo():
 
 ## Linkification of SHA-1 s
 
+16c999e8c71134401a78d4d46435517b2271d6ac
+
+mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+
 mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 
 #VSLIDE
 
-## Linkification of Issues and PRs
+## Linkification of issues and PRs
 
 #1
 
@@ -142,6 +146,12 @@ He there @mwiesen, I am at-mentioning you!
 ## URL Linkification
 
 This URL here should really be a link https://github.com/business
+
+#VSLIDE
+
+## Strike-through and emoji
+
+I think Mercedes Benz cars are ~~great~~ not so good... :confused:
 
 
 
