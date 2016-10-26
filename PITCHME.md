@@ -92,8 +92,28 @@ function fancyAlert(arg) {
 
 ## Without Syntax highlighting
 
+´´´
 def foo():
     if not bar:
         return True
+´´´
 
+#VSLIDE
+
+## Task lists
+
+- [ ] item one
+- [ ] item two
+- [ ] item three
+
+#VSLIDE
+
+## Tables!
+
+| Number (right) | Item (centered) | Description (left) |
+| ---: | :---: | :--- |
+| 123 | Chair | brown |
+| 6 | Plate | white |
+| 239237 | car | sportive |
+| 493 | flower | the moste beautiful tulip you've ever seen |
 
