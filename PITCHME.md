@@ -1,6 +1,6 @@
 #HSLIDE
 
-This is a short introduction to GitPitch
+This is a short introduction to **GitPitch**
 
 GitPitch uses [Markdown](https://guides.github.com/features/mastering-markdown/) and some extensions to define the content of your presentation slides. The layout is defined via CSS.
 
@@ -23,10 +23,9 @@ Headers:
 ##### Header 5
 ###### Header 6
 
-
 #VSLIDE
 
-Lists:
+# Lists:
 
 - lorem
 * ipsum
@@ -37,7 +36,7 @@ Lists:
     
 #VSLIDE
 
-Ordered lists:
+# Ordered lists:
 
 1. item one
 2. item two
@@ -45,3 +44,20 @@ Ordered lists:
   * item two b
     - item two b i
     * item two b ii
+    
+#VSLIDE
+
+# Images and links:
+
+![Image of Yaktocat](https://octodex.github.com/images/inflatocat.png)
+
+This image can be found [here](https://octodex.github.com/inflatocat)
+
+#VSLIDE
+
+# Blockquotes and inline code:
+
+> This is what the other guy said the other day! Really funny!
+
+Let's add a little `inline code` to the this slide!
+
