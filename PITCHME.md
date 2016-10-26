@@ -62,3 +62,32 @@ This image can be found [here](https://github.com/universe-2016)
 
 Let's add a little `inline code` to the this slide!
 
+#HSLIDE
+
+Also, let's have a look at [GitHub flavoured Markdown...](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+
+#VSLIDE
+
+## Syntax highlighting
+
+```
+javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+#VSLIDE
+
+## Again Syntax highlighting
+
+    javascript
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+
+
