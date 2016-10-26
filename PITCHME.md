@@ -90,8 +90,8 @@ function fancyAlert(arg) {
     
 #VSLIDE
 
-def foo():
-    if not bar:
-        return True
+    def foo():
+        if not bar:
+            return True
 
 
