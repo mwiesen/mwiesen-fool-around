@@ -26,15 +26,19 @@ Headers:
 Lists:
 
 - lorem
-- ipsum
+* ipsum
   - lorem
-    - ipsum
+  * ipsum
+    - lorem
+    * ipsum
     
-#VSLIDe
+#VSLIDE
 
 Ordered lists:
 
 1. item one
 2. item two
   - item two a
-  - item two b
+  * item two b
+    - item two b i
+    * item two b ii
