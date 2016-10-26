@@ -70,8 +70,7 @@ Also, let's have a look at [GitHub flavoured Markdown...](https://guides.github.
 
 ## Syntax highlighting
 
-```
-javascript
+```javascript
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
@@ -83,11 +82,16 @@ function fancyAlert(arg) {
 
 ## Again Syntax highlighting
 
-    javascript
     function fancyAlert(arg) {
       if(arg) {
         $.facebox({div:'#foo'})
       }
     }
+    
+#VSLIDE
+
+def foo():
+    if not bar:
+        return True
 
 
