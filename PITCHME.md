@@ -102,18 +102,48 @@ def foo():
 
 ## Task lists
 
-- [ ] item one
-- [ ] item two
+- [X] item one
+- [X] item two
 - [ ] item three
 
 #VSLIDE
 
 ## Tables!
 
-| Number (right) | Item (centered) | Description (left) |
+| Number (r) | Item (c) | Description (l) |
 | ---: | :---: | :--- |
-| 123 | Chair | brown |
-| 6 | Plate | white |
+| 123 | chair | brown |
+| 6 | plate | white |
 | 239237 | car | sportive |
 | 493 | flower | the moste beautiful tulip you've ever seen |
+
+#VSLIDE
+
+## Linkification of SHA-1 s
+
+mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
+
+#VSLIDE
+
+## Linkification of Issues and PRs
+
+#1
+
+atom/atom#123
+
+#VSLIDE
+
+## At-mentions
+
+He there @mwiesen, I am at-mentioning you!
+
+#VSLIDE
+
+## URL Linkification
+
+This URL here should really be a link https://github.com/business
+
+
+
+
 
