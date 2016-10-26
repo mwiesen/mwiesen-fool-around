@@ -92,15 +92,15 @@ function fancyAlert(arg) {
 
 ## Without Syntax highlighting
 
-´´´
+```
 def foo():
     if not bar:
         return True
-´´´
+```
 
 #VSLIDE
 
-## Task lists
+## ~~Task lists~~
 
 - [X] item one
 - [X] item two
@@ -119,7 +119,7 @@ def foo():
 
 #VSLIDE
 
-## Linkification of SHA-1 s
+## ~~Linkification of SHAs~~
 
 16c999e8c71134401a78d4d46435517b2271d6ac
 
@@ -129,7 +129,7 @@ mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 
 #VSLIDE
 
-## Linkification of issues and PRs
+## ~~Linkification of issues and PRs~~
 
 #1
 
@@ -137,7 +137,7 @@ atom/atom#123
 
 #VSLIDE
 
-## At-mentions
+## ~~At-mentions~~
 
 He there @mwiesen, I am at-mentioning you!
 
@@ -149,7 +149,7 @@ This URL here should really be a link https://github.com/business
 
 #VSLIDE
 
-## Strike-through and emoji
+## Strike-through and ~~emoji~~
 
 I think Mercedes Benz cars are ~~great~~ not so good... :confused:
 
