@@ -182,7 +182,7 @@ I think Mercedes Benz cars are ~~great~~ not so good... :confused:
 
 #VSLIDE
 
-## Test 2 HTML table
+## Test HTML table 2 columns
 
 <table><tr><td>
     
@@ -190,9 +190,48 @@ I think Mercedes Benz cars are ~~great~~ not so good... :confused:
     I hope this is upporting Markdown, too
     Let's put a picture in here
     ![universe-2016](https://assets-cdn.github.com/images/modules/site/universe-logo.png)
-  
-</td><td>
 
+</td><td>
+  
+    This is *area* 1
+    I hope this is upporting Markdown, too
+    Let's put a picture in here
+    ![universe-2016](https://assets-cdn.github.com/images/modules/site/universe-logo.png)
+  
+</td></tr></table>
+
+#VSLIDE
+
+## Test HTML table 3 columns
+
+<table><tr><td>
+    
+    This is *area* 1
+    I hope this is upporting Markdown, too
+    Let's put a picture in here
+    ![universe-2016](https://assets-cdn.github.com/images/modules/site/universe-logo.png)
+
+</td><td>
+</td><td>
+  
+    This is *area* 1
+    I hope this is upporting Markdown, too
+    Let's put a picture in here
+    ![universe-2016](https://assets-cdn.github.com/images/modules/site/universe-logo.png)
+  
+</td></tr></table>
+
+## Test HTML table 3 columns 
+
+<table><tr><td>
+    
+    This is *area* 1
+    I hope this is upporting Markdown, too
+    Let's put a picture in here
+    ![universe-2016](https://assets-cdn.github.com/images/modules/site/universe-logo.png)
+
+</td><td>
+    
     This is *area* 1
     I hope this is upporting Markdown, too
     Let's put a picture in here
