@@ -221,6 +221,8 @@ I think Mercedes Benz cars are ~~great~~ not so good... :confused:
   
 </td></tr></table>
 
+#VSLIDE
+
 ## Test HTML table 3 columns 
 
 <table><tr><td>
