@@ -180,6 +180,28 @@ I think Mercedes Benz cars are ~~great~~ not so good... :confused:
   </tr>
 </table>
 
+#VSLIDE
+
+## Test 2 HTML table
+
+<table>
+<tr>
+  <td>
+    This is *area* 1
+    I hope this is upporting Markdown, too
+    Let's put a picture in here
+    ![universe-2016](https://assets-cdn.github.com/images/modules/site/universe-logo.png)
+  
+  </td>
+  <td>
+    This is *area* 1
+    I hope this is upporting Markdown, too
+    Let's put a picture in here
+    ![universe-2016](https://assets-cdn.github.com/images/modules/site/universe-logo.png)
+  </td>
+</tr>
+</table>
+
 
 
 
