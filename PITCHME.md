@@ -193,7 +193,7 @@ I think Mercedes Benz cars are ~~great~~ not so good... :confused:
 
 </td><td>
   
-    This is *area* 1
+    This is *area* 2
     I hope this is upporting Markdown, too
     Let's put a picture in here
     ![universe-2016](https://assets-cdn.github.com/images/modules/site/universe-logo.png)
@@ -214,7 +214,7 @@ I think Mercedes Benz cars are ~~great~~ not so good... :confused:
 </td><td>
 </td><td>
   
-    This is *area* 1
+    This is *area* 3
     I hope this is upporting Markdown, too
     Let's put a picture in here
     ![universe-2016](https://assets-cdn.github.com/images/modules/site/universe-logo.png)
@@ -232,14 +232,14 @@ I think Mercedes Benz cars are ~~great~~ not so good... :confused:
 
 </td><td>
     
-    This is *area* 1
+    This is *area* 2
     I hope this is upporting Markdown, too
     Let's put a picture in here
     ![universe-2016](https://assets-cdn.github.com/images/modules/site/universe-logo.png)
 
 </td><td>
   
-    This is *area* 1
+    This is *area* 3
     I hope this is upporting Markdown, too
     Let's put a picture in here
     ![universe-2016](https://assets-cdn.github.com/images/modules/site/universe-logo.png)
